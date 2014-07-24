@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Persistence Test</string>
+    <string name="button_1">Wish 1</string>
+    <string name="button_2">Wish 2</string>
+    <string name="button_3">Wish 3</string>
+
+</resources>
