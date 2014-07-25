@@ -8,18 +8,21 @@
         android:id="@+id/toggleButton1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/button_1" />
+        android:textOn="@string/button_1" 
+        android:textOff="@string/button_1" />
 
     <ToggleButton
         android:id="@+id/toggleButton2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/button_2" />
+        android:textOn="@string/button_2" 
+        android:textOff="@string/button_2" />
 
     <ToggleButton
         android:id="@+id/toggleButton3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/button_3" />
+        android:textOn="@string/button_3" 
+        android:textOff="@string/button_3"/>
 
 </LinearLayout>
